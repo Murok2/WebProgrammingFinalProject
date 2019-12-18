@@ -24,7 +24,7 @@
   color: brown;
 }
 
-}
+
  .card{
    width: 50mm;
  }
@@ -59,4 +59,54 @@
   background-color: black !important;
 }
 
+.conditions{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.grid__columns{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.font_awesome_icon {
+  color: black;
+}
+
+.facebook:hover {
+  color: blue;
+}
+
+.instagram:hover{
+  color: #9f477c;
+}
+
+.twitter:hover{
+   color: #6f909f;
+ }
+
+.pinterest:hover{
+  color: #9f801f;
+}
+
+.google_plus:hover{
+  color: #7e9f33;
+}
+
+.linkedin:hover{
+  color: #6e9f61;
+}
+
+footer {
+  background-color: white;
+  margin-top: -20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.container {
+  /*margin-left: -50px;*/
+}
 
