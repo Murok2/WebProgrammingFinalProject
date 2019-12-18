@@ -110,3 +110,17 @@ a{
   /*margin-left: -50px;*/
 }
 
+iframe{
+  width: 100%;
+  allowfullscreen: true;
+  frameborder: 0;
+  height: 600px;
+}
+
+.sushi{
+  margin-left: 120mm;
+}
+
+h4{
+  color: white;
+}
